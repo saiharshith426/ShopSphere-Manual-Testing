@@ -1,1 +1,0 @@
-# ShopSphere-Manual-Testing
